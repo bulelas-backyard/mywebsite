@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bulelas-backyard.github.io/mywebsite/sitemap.xml
